@@ -55,6 +55,7 @@ In addition, I have growing experience in **image segmentation**, using Python l
 ## 📫 Connect With Me
 
 - 🌐 Website/Portfolio: [https://sites.google.com/view/agumbaoluoch/]
+- 🎥 YouTube Channel: [YouTube](https://www.youtube.com/@wycology) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wyclife-oluoch-3924341b9/)  
 - 📧 Email: [woluoch@uni-bonn.de]  
 
