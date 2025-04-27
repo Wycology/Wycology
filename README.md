@@ -63,5 +63,5 @@ In addition, I have growing experience in **image segmentation**, using Python l
 > *"Mapping the future, one pixel at a time."*
 
 <!-- Optional Footer Image -->
-<img src="https://images.unsplash.com/photo-1614064641938-3b7b70dbe0e1" alt="Satellite Image" style="width:100%; height:250px; object-fit:cover; margin-top:20px;">
+<img src="https://github.com/Wycology/Wycology/blob/main/banner.png" alt="Satelitte Banner" style="width:300%; height:350px; object-fit:cover;">
 
