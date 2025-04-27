@@ -22,9 +22,9 @@ In addition, I have growing experience in **remote sensing** and **image segment
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="300" height="300"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="300" height="300"/>
-<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="300" height="300"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="200" height="200"/>
+<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="200" height="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
 </div>
