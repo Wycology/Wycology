@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb" alt="Nature Banner" style="width:100%; height:300px; object-fit:cover;">
+<img src="https://github.com/Wycology/Wycology/blob/main/Untitled%20design%20(1).png" alt="Nature Banner" style="width:100%; height:300px; object-fit:cover;">
 
 # 👋 Welcome!
 
