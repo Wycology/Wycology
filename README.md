@@ -1,16 +1,70 @@
-## Hi there 👋
+<!-- Banner Image -->
+<img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb" alt="Nature Banner" style="width:100%; height:300px; object-fit:cover;">
 
-<!--
-**Wycology/Wycology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I'm an expert in Species Distribution Modeling (SDM)**, passionate about understanding biodiversity patterns and supporting conservation planning in a changing globe.  
+
+📍 I primarily work in **R**, using tools like:
+
+- `sdm`
+- `ENMeval`
+- `geodata`
+- `terra`
+
+In addition, I have growing experience in **remote sensing** and **image segmentation**, using Python libraries like `torchgeo` and `PyTorch` — focusing especially on **cropland mapping** for **tea plantations in Africa**. 🍃
+
+---
+
+## 🔥 Skills and Tools
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="300" height="300"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="300" height="300"/>
+<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="300" height="300"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+</div>
+
+- **Languages**: R, Python
+- **Packages**: sdm, ENMeval, terra, raster, torchgeo
+- **Domains**: Species Distribution Modeling, Remote Sensing, Image Segmentation, GIS, Geospatial Data Science
+- **Software**: QGIS, Google Earth Engine
+
+---
+
+## 🚀 Current Projects
+
+- 🔬 Building high-resolution species distribution models using ensemble workflows
+- 🛰️ Mapping croplands and tea-growing areas in Africa using deep learning (TorchGeo)
+- 🌎 Integrating climate and remote sensing data for better environmental predictions
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wycology&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wycology&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website/Portfolio: [https://sites.google.com/view/agumbaoluoch/]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wyclife-oluoch-3924341b9/)  
+- 📧 Email: [woluoch@uni-bonn.de]  
+
+---
+
+> *"Mapping the future, one pixel at a time."*
+
+<!-- Optional Footer Image -->
+<img src="https://images.unsplash.com/photo-1614064641938-3b7b70dbe0e1" alt="Satellite Image" style="width:100%; height:250px; object-fit:cover; margin-top:20px;">
+
