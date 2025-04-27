@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://github.com/Wycology/Wycology/blob/main/Suitability.png" alt="Nature Banner" style="width:300%; height:350px; object-fit:cover;">
 
-# 👋 Welcome!
+# 👋 Welcome to my official GitHub page!
 
 ## About Me
 
