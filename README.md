@@ -22,7 +22,6 @@ In addition, I have growing experience in **image segmentation**, using Python l
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="200" height="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="200" height="200"/>
 <img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="200" height="200"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
 </div>
 
@@ -55,8 +54,8 @@ In addition, I have growing experience in **image segmentation**, using Python l
 ## 📫 Connect With Me
 
 - 🌐 Website/Portfolio: [https://sites.google.com/view/agumbaoluoch/]
-- 🎥 YouTube Channel: [YouTube](https://www.youtube.com/@wycology) 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wyclife-oluoch-3924341b9/)  
+- 🎥 My YouTube Channel: [YouTube](https://www.youtube.com/@wycology) 
+- 🔗 My LinkedIn: [LinkedIn](https://www.linkedin.com/in/wyclife-oluoch-3924341b9/)  
 - 📧 Email: [woluoch@uni-bonn.de]  
 
 ---
