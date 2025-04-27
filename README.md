@@ -9,7 +9,7 @@
 
 📍 I primarily work in **R**, using tools like:
 
-<img src="https://github.com/Wycology/Wycology/blob/main/Suitability.png" alt="Nature Banner" style="width:300%; height:350px; object-fit:cover;">
+<img src="https://github.com/Wycology/Wycology/blob/main/Untitled design (1).png" alt="Nature Banner" style="width:300%; height:350px; object-fit:cover;">
 
 In addition, I have growing experience in **remote sensing** and **image segmentation**, using Python libraries like `torchgeo` and `PyTorch` — focusing especially on **cropland mapping** for **tea plantations in Africa**. 🍃
 
