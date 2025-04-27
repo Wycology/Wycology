@@ -5,14 +5,11 @@
 
 ## About Me
 
-🌱 **I'm an expert in Species Distribution Modeling (SDM)**, passionate about understanding biodiversity patterns and supporting conservation planning in a changing globe.  
+🌱 **I'm an expert in Species Distribution Modeling (SDM)**. I am passionate about understanding biodiversity patterns and supporting conservation planning in a changing globe.  
 
 📍 I primarily work in **R**, using tools like:
 
-- `sdm`
-- `ENMeval`
-- `geodata`
-- `terra`
+<img src="https://github.com/Wycology/Wycology/blob/main/Suitability.png" alt="Nature Banner" style="width:300%; height:350px; object-fit:cover;">
 
 In addition, I have growing experience in **remote sensing** and **image segmentation**, using Python libraries like `torchgeo` and `PyTorch` — focusing especially on **cropland mapping** for **tea plantations in Africa**. 🍃
 
@@ -30,8 +27,8 @@ In addition, I have growing experience in **remote sensing** and **image segment
 </div>
 
 - **Languages**: R, Python
-- **Packages**: sdm, ENMeval, terra, raster, torchgeo
-- **Domains**: Species Distribution Modeling, Remote Sensing, Image Segmentation, GIS, Geospatial Data Science
+- **Packages**: sdm, ENMeval, terra, geodata, torchgeo
+- **Domains**: Species Distribution Modeling, Remote Sensing, Image Segmentation, Geospatial Data Science
 - **Software**: QGIS, Google Earth Engine
 
 ---
