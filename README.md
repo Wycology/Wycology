@@ -5,7 +5,7 @@
 
 ## About Me
 
-🌱 **I am passionate about understanding biodiversity patterns and supporting conservation planning in a changing globe.  
+🌱 I am passionate about understanding biodiversity patterns and supporting conservation planning in a changing globe.  
 
 📍 I primarily work in **R**, using tools like:
 
