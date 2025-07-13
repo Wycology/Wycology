@@ -7,7 +7,7 @@
 
 🌱 I am passionate about understanding biodiversity patterns and supporting conservation planning in a changing globe.  
 
-📍 I primarily work in **R**, using tools like:
+📍 I primarily work in **R**, **Python**, **Google Earth Engine**, and _Shell Scripting_ for **High Performance Computing**, using tools like:
 
 <img src="https://github.com/Wycology/Wycology/blob/main/torch.png" alt="Nature Banner" style="width:500%; height:150px; object-fit:cover;">
 
