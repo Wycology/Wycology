@@ -5,13 +5,13 @@
 
 ## About Me
 
-🌱 I am passionate about understanding biodiversity patterns and supporting conservation planning in a changing globe.  
+🌱 I am passionate about understanding how we can halt biodiversity loss through informed land use planning in a changing globe, particularly in tropical croplands.  
 
 📍 I primarily work in **R**, **Python**, **Google Earth Engine**, and _Shell Scripting_ for **High Performance Computing**, using tools like:
 
 <img src="https://github.com/Wycology/Wycology/blob/main/torch.png" alt="Nature Banner" style="width:500%; height:150px; object-fit:cover;">
 
-In addition, I have growing experience in **image segmentation**, using Python libraries like `torchgeo` and `PyTorch` — focusing on **Cropland Mapping** for **tea plantations in Africa**. 🍃
+In addition, I have growing experience in **image segmentation**, using Python libraries like `torchgeo` and `PyTorch` — focusing on the intersection of **Croplands** and ** Biodiversity in Africa** and how policy adjustments can halt biodiversity loss🍃
 
 ---
 
