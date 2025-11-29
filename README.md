@@ -11,7 +11,7 @@
 
 <img src="https://github.com/Wycology/Wycology/blob/main/torch.png" alt="Nature Banner" style="width:500%; height:150px; object-fit:cover;">
 
-In addition, I have growing experience in **image segmentation**, using Python libraries like `torchgeo` and `PyTorch` — focusing on the intersection of **Croplands** and ** Biodiversity in Africa** and how policy adjustments can halt biodiversity loss🍃
+In addition, I have growing experience in **image segmentation**, using Python libraries like `torchgeo` and `PyTorch` — focusing on the intersection of **Croplands** and **Biodiversity in Africa** and how policy adjustments can halt biodiversity loss🍃
 
 ---
 
