@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <img src="https://github.com/Wycology/Wycology/blob/main/Suitability.png" alt="Nature Banner" style="width:300%; height:350px; object-fit:cover;">
 
-# 👋 Welcome to my official GitHub page!
+# 👋 Welcome to my GitHub page!
 
 ## About Me
 
-🌱 I am passionate about understanding how we can halt biodiversity loss through informed land use planning in a changing globe, particularly in tropical croplands.  
+🌱 I am passionate about using Geospatial AI to help halt biodiversity loss and improve livelihoods through informed land-use planning in a changing world, particularly within the tropical regions.  
 
 📍 I primarily work in **R**, **Python**, **Google Earth Engine**, and _Shell Scripting_ for **High Performance Computing**, using tools like:
 
@@ -27,15 +27,15 @@ In addition, I have growing experience in **image segmentation**, using Python l
 
 - **Languages**: R, Python
 - **Packages**: sdm, ENMeval, terra, geodata, torchgeo
-- **Domains**: Species Distribution Modeling, Remote Sensing, Image Segmentation, Geospatial Data Science
-- **Software**: QGIS, Google Earth Engine
+- **Domains**: Geospatial Modeling
+- **Software**: Python, JavaScript, R
 
 ---
 
 ## 🚀 Current Projects
 
-- 🔬 Building high-resolution species distribution models using ensemble workflows
 - 🛰️ Mapping croplands and tea-growing areas in Africa using deep learning (TorchGeo)
+- 🔬 Building high-resolution species distribution models using ensemble workflows
 - 🌎 Integrating climate and remote sensing data for better environmental predictions
 
 ---
